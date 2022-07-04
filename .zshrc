@@ -1,0 +1,1 @@
+MONGO_URL="mongodb+srv://sralli:ptolemy@cluster0.xhxwmjy.mongodb.net/?retryWrites=true&w=majority"

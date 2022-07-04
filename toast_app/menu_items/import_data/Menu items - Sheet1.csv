@@ -1,0 +1,21 @@
+item_id,Item name,Restaurant,Category,Price,Availability
+1,Martini,38 Barracks,Drinks,299,Y
+2,Shake,38 Barracks,Drinks,150,Y
+3,Iced tea,38 Barracks,Drinks,200,Y
+4,Paneer 65,38 Barracks,Appetizers,250,Y
+5,Chicken 65,38 Barracks,Appetizers,300,Y
+6,Potato Wedges,38 Barracks,Appetizers,200,Y
+7,Chicken Malai Tikka,38 Barracks,Appetizers,350,Y
+8,Biryani - Chicken,38 Barracks,Main Course,350,Y
+9,Biryani Veg,38 Barracks,Main Course,300,Y
+10,Brownie,38 Barracks,Dessert,175,Y
+11,Vanilla thick shake,Overnstory,Drinks,200,Y
+12,Potato Wedges,Overnstory,Appetizers,200,Y
+13,Veg Momos,Overnstory,Appetizers,150,Y
+14,Chicken Momos,Overnstory,Appetizers,200,Y
+15,Farmhouse Pizza,Overnstory,Main Course,650,Y
+16,Chicken Overloaded Pizza,Overnstory,Main Course,700,Y
+17,Maximus Pizza Veg,Overnstory,Main Course,700,Y
+18,Maximus Pizza Non Veg,Overnstory,Main Course,800,Y
+19,Choco Lava Cake,Overnstory,Dessert,108,Y
+20,New york cheese cake,Overnstory,Dessert,200,Y

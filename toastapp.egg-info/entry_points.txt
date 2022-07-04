@@ -1,0 +1,3 @@
+[console_scripts]
+toastapp = toastapp:start_command_line
+

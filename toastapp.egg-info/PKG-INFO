@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: toastapp
+Version: 0.1.dev0
+Summary: Restaurant management app
+Home-page: UNKNOWN
+Author: Shivam Ralli
+Author-email: shivamralli167@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
